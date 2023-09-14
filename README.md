@@ -10,7 +10,7 @@ Arun Krishna Vajjala, Ajay Krishna Vajjala, Deval Parikh
 
 # Using GitChat	
 - Provide your OpenAi and VectorStore key in the gitchat.py file
-- run '''python3 driver.py''' to start the CLI interface
+- run ```python3 driver.py``` to start the CLI interface
 
 # Problem and Motivation 
 
