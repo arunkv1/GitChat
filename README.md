@@ -3,11 +3,16 @@
 
 Arun Krishna Vajjala, Ajay Krishna Vajjala, Deval Parikh 
 
-# Problem and Motivation: 
+# Problem and Motivation 
 
 Many companies in the industry have large software codebases that can be challenging and time consuming to navigate for engineers, non-technical team members, and leadership. These current practices require developers to get training and familiarize themselves with the codebases to make meaningful contributions. This can consume a significant amount of the company’s time and resources. 
 To tackle these challenges, we introduce GitChat—an interactive AI Developer tool designed to comprehend codebases and enable developers to ask questions about it using natural language in plain English. This give developers a means to interact directly with large codebases without tediously navigating the documentation and technical components within it. This tool has the potential to significantly reduce the time it takes for developers to familiarize themselves with the source code. It can also enhance the productivity of developers at any level by enabling them to directly "chat" with the codebase. GitChat eliminates the need for laborious exploration to comprehend the complex logic and architectures within the code. 
 This increase in productivity can potentially result in developer output and performance since they no longer need to spend time manually searching the code. This allows developers to focus their efforts on more creative problem solving and innovation. Companies can benefit from this heightened level of productivity to achieve their goals. 
+
+# Features 
+- Allows users to link a GitHub Repo to navigate via the CLI chat interface
+- Stores previous Repos for easy access and retrieval
+- Uses DeepLake Vector storage to segment code and documentation bypassing major Token Limit issues
 
 # Use Case
 
