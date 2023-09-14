@@ -6,7 +6,7 @@ Arun Krishna Vajjala, Ajay Krishna Vajjala, Deval Parikh
 # Features 
 - Allows users to link a GitHub Repo to navigate via the CLI chat interface
 - Stores previous Repos for easy access and retrieval
-- Uses DeepLake Vector storage to segment code and documentation bypassing major Token Limit issues
+- Uses DeepLake Vector storage to segment code and documentation, bypassing major Token Limit issues
 
 # Problem and Motivation 
 
