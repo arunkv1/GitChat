@@ -18,11 +18,11 @@ from os import devnull
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 logging.basicConfig(level=logging.ERROR)
-os.environ["OPENAI_API_KEY"] = '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'
-openai.api_key = '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'
-activeloop_token = "eyJhbGciOiJIUzUxMiIsImlhdCI6MTY5NDY0OTg3NCwiZXhwIjoxNzI2MjcyMjY1fQ.eyJpZCI6ImRldmFscHAifQ.6LcNchbvNWJpfXo9jwJtBfyUruYyXOYoXij7hQ9gjNBGcFyx5b8Jv5m68Qf8P2k6Mvs99RQsWefm6kFQJPh7wQ"
+os.environ["OPENAI_API_KEY"] = 'API Key'
+openai.api_key = 'API Key'
+activeloop_token = "DeepLake Key"
 os.environ["ACTIVELOOP_TOKEN"] = activeloop_token
-username = "devalpp"
+username = "your username"
 
 embeddings = OpenAIEmbeddings(disallowed_special=())
 db = DeepLake(
