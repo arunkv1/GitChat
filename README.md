@@ -8,6 +8,10 @@ Arun Krishna Vajjala, Ajay Krishna Vajjala, Deval Parikh
 - Stores previous Repos for easy access and retrieval
 - Uses DeepLake Vector storage to segment code and documentation, bypassing major Token Limit issues
 
+# Using GitChat	
+- Provide your OpenAi and VectorStore key in the gitchat.py file
+- run python3 driver.py to start the CLI interface
+
 # Problem and Motivation 
 
 Many companies in the industry have large software codebases that can be challenging and time consuming to navigate for engineers, non-technical team members, and leadership. These current practices require developers to get training and familiarize themselves with the codebases to make meaningful contributions. This can consume a significant amount of the company’s time and resources. 
