@@ -1,6 +1,6 @@
 # GitChat
 Arun Krishna Vajjala, Ajay Krishna Vajjala, Deval Parikh 
-
+![](https://github.com/arunkv1/GitChat/blob/main/demo.gif)
 # Problem and Motivation: 
 
 Many companies in the industry have large software codebases that can be challenging and time consuming to navigate for engineers, non-technical team members, and leadership. These current practices require developers to get training and familiarize themselves with the codebases to make meaningful contributions. This can consume a significant amount of the company’s time and resources. 
